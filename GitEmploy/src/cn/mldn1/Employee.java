@@ -27,4 +27,5 @@ public class Employee {
                 ", age=" + age +
                 '}';
     }
+	private String loc;   //增加一个loc
 }
