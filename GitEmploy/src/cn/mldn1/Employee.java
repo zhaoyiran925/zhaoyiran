@@ -28,5 +28,5 @@ public class Employee {
                 '}';
     }
     private Double salary;  //新增薪水
-	private String loc;   //新增地址
+	private String locccc;   //新增地址
 }
