@@ -27,4 +27,5 @@ public class Employee {
                 ", age=" + age +
                 '}';
     }
+    private Double salary;  //新增薪水
 }
